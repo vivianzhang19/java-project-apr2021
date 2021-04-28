@@ -1,0 +1,2 @@
+Bad luck! You have lost the game.
+The game took 42 rounds.
